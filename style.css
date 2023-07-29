@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 2;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Dosis';
+  font-size: 32px;
+  text-align: center;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: #828282
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+strong {
+  color: #3F3D56;
+}
+
